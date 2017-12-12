@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Oct 2017 05:08:21 at http://demo.osthemes.biz/wolverine/portfolio-nospace-4-col.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo.osthemes.biz/wolverine/portfolio-nospace-4-col.html -O1 "C:\Users\Bara\Documents\portofolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:47:10	Warning: 	Retry after error -4 (Incorrect length (7072887 Bytes, 8024971 expected)) at link demo.osthemes.biz/wolverine/assets/images/testimonial-img1.jpg (from demo.osthemes.biz/wolverine/homepage-default.html)
+05:47:11	Error: 	"Not Found" (404) at link demo.osthemes.biz/wolverine/page-contact-2.html (from demo.osthemes.biz/wolverine/homepage-leftmenu.html)
+05:47:11	Error: 	"Not Found" (404) at link demo.osthemes.biz/wolverine/shop-cart (from demo.osthemes.biz/wolverine/homepage-shop-1.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 minutes 28 seconds : 499 links scanned, 495 files written (63246552 bytes overall) [56439965 bytes received at 23834 bytes/sec], 8382985 bytes transferred using HTTP compression in 169 files, ratio 17%, 2.9 requests per connection
+(2 errors, 1 warnings, 0 messages)
